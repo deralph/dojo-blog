@@ -1,0 +1,40 @@
+{
+  "blogs": [
+    {
+      "title": "my new website",
+      "body": "lorem ipsum...",
+      "author": "mario",
+      "id": 1
+    },
+    {
+      "title": "welcome party",
+      "body": "lorem ipsum...",
+      "author": "fred",
+      "id": 2
+    },
+    {
+      "title": "web dev pro tips",
+      "body": "lorem ipsum...",
+      "author": "mario",
+      "id": 3
+    },
+    {
+      "title": "My second blog",
+      "body": "This is  my second blog and i just wanna say fuck love",
+      "author": "ralph",
+      "id": 9
+    },
+    {
+      "title": "my third blog",
+      "body": "this is my third blog and i just wanna say i love the art of blogging",
+      "author": "",
+      "id": 13
+    },
+    {
+      "title": "my fourth blog",
+      "body": "this is my fourth blog and i just wanna tell you guys im gonna make it programming",
+      "author": "ralph",
+      "id": 15
+    }
+  ]
+}
